@@ -1,0 +1,25 @@
+#Set root logger level to DEBUG and its only appender to A1.
+#log4j.rootLogger=DEBUG, console, file
+log4j.rootLogger=INFO, console, file
+#log4j.rootLogger=ERROR, console
+
+# A1 is set to be a ConsoleAppender.log4j.appender.console=org.apache.log4j.ConsoleAppender
+# A1 uses PatternLayout.
+log4j.appender.console=org.apache.log4j.ConsoleAppender
+log4j.appender.console.Target=System.out
+log4j.appender.console.layout=org.apache.log4j.PatternLayout
+log4j.appender.console.layout.ConversionPattern=%d{ISO8601}|%-5p|%t|%c{1}|%m%n
+
+### direct messages to log file###
+log4j.appender.file=org.apache.log4j.FileAppender
+log4j.appender.file.File=monitor.log
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%d{ISO8601}|%-5p|%t|%c{1}|%m%n
+
+#log4j.logger.org.apache.commons.httpclient=error
+#log4j.logger.org.apache.commons.digester=error
+#log4j.logger.org.apache.commons.beanutils=error
+#log4j.logger.com.stgit.crawler.ssl=error
+#log4j.logger.com.stgit.crawler=debug
+log4j.logger.org.apache.commons.httpclient=ERROR
+log4j.logger.com.gargoylesoftware.htmlunit=ERROR

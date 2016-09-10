@@ -1,0 +1,100 @@
+8
+
+dir
+9
+http://code.namo-namaha.net/archiveygrp/java/aygp/trunk
+http://code.namo-namaha.net/archiveygrp
+
+
+
+2007-05-06T01:56:06.343300Z
+1
+humble
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9bdff553-c32f-0410-9485-ca304d3b76f4
+
+.classpath
+file
+
+
+
+
+2007-05-06T14:43:44.885474Z
+591212084f66d2876aa9cce84280a66d
+2007-05-06T01:56:06.343300Z
+1
+humble
+
+yag-archive.cmd
+file
+64
+
+
+
+2007-07-07T14:38:16.192842Z
+50ff8d911fc5fa0caf875b0e539de0d9
+2007-07-25T11:23:44.368132Z
+64
+humble
+
+Archive-PS.cmd
+file
+65
+
+
+
+2007-08-10T01:49:42.108247Z
+a899d17d85a8b1b4bee5edd1e74bac84
+2007-07-25T11:23:44.368132Z
+64
+humble
+
+.project
+file
+
+
+
+
+2007-05-06T14:43:44.923557Z
+c01ba1940d3c60fce38458917d7e9ce6
+2007-05-06T01:56:06.343300Z
+1
+humble
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+yag-archive.sh
+file
+
+
+
+
+2007-05-06T14:43:44.947970Z
+15d1c34935a659a5603fde49cc397480
+2007-05-06T01:56:06.343300Z
+1
+humble
+
+etc
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/archiveygrp/!svn/ver/1/java/aygp/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/archiveygrp/!svn/ver/1/java/aygp/trunk/.classpath
+END
+yag-archive.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/archiveygrp/!svn/ver/64/java/aygp/trunk/yag-archive.cmd
+END
+Archive-PS.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/archiveygrp/!svn/ver/64/java/aygp/trunk/Archive-PS.cmd
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/archiveygrp/!svn/ver/1/java/aygp/trunk/.project
+END
+yag-archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/archiveygrp/!svn/ver/1/java/aygp/trunk/yag-archive.sh
+END
